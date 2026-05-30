@@ -41,6 +41,9 @@ data_tests:
   +store_failures: true
   +schema: _test_failures
 
+vars:
+  user_name: dbt_user_name
+
 
 
 
